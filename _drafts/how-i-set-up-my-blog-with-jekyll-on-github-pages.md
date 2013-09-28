@@ -1,9 +1,10 @@
 ---
 layout: post
 title: How I set up my blog with Jekyll on GitHub pages
+slug: how-i-set-up
 category: Coding
 tags: github jekyll bootstrap
-published: false
+published: true
 summary: How to build a blog using Jekyll and GitHub pages
 ---
 

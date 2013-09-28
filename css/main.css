@@ -5,8 +5,29 @@ body {
     background-color: #FFFFFF;
 }
 
+.navbar-brand img {
+    margin: 0 0 0 10px;
+    padding: 0;
+    border-radius: 12px 12px 12px 12px;
+    overflow: visible;
+}
+
+.navbar-brand {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
 #footer {
     margin-top: 50px;
     padding-top: 10px;
     border-top: 3px solid #E7E7E7;
+}
+
+.post-footer .share {
+    padding-top: 20px;
+}
+
+.share-item {
+    max-height: 22px;
+    max-width: 130px;
 }
